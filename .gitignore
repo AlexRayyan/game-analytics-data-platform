@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local generated game events
+game_events.json
+
+# Google Cloud credentials
+service-account*.json
+application_default_credentials.json
+
+# Local environment variables
+.env
